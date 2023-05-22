@@ -1,0 +1,3 @@
+C:/maratona/exe07_numeros_triangulares/cmake-build-debug/CMakeFiles/exe07_numeros_triangulares.dir
+C:/maratona/exe07_numeros_triangulares/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/maratona/exe07_numeros_triangulares/cmake-build-debug/CMakeFiles/rebuild_cache.dir

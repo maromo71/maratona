@@ -1,0 +1,3 @@
+C:/maratona/exe05_numeros_amigaveis/cmake-build-debug/CMakeFiles/exe05_numeros_amigaveis.dir
+C:/maratona/exe05_numeros_amigaveis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/maratona/exe05_numeros_amigaveis/cmake-build-debug/CMakeFiles/rebuild_cache.dir

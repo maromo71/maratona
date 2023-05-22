@@ -1,0 +1,14 @@
+//
+// Created by memar on 22/05/2023.
+//
+
+#ifndef EXE04_DELIMITADORES_NAVA_BOOLEANO_H
+#define EXE04_DELIMITADORES_NAVA_BOOLEANO_H
+typedef int BOOLEAN;
+
+enum {
+    FALSE = 0,
+    TRUE = 1,
+};
+
+#endif //EXE04_DELIMITADORES_NAVA_BOOLEANO_H

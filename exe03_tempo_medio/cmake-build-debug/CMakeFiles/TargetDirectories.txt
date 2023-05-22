@@ -1,0 +1,3 @@
+C:/maratona/exe03_tempo_medio/cmake-build-debug/CMakeFiles/exe03_tempo_medio.dir
+C:/maratona/exe03_tempo_medio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/maratona/exe03_tempo_medio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

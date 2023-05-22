@@ -1,0 +1,3 @@
+C:/maratona/exe04_delimitadores_nava/cmake-build-debug/CMakeFiles/exe04_delimitadores_nava.dir
+C:/maratona/exe04_delimitadores_nava/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/maratona/exe04_delimitadores_nava/cmake-build-debug/CMakeFiles/rebuild_cache.dir

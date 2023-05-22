@@ -1,0 +1,3 @@
+C:/maratona/exe04_delimitadores_maromo/cmake-build-debug/CMakeFiles/exe04_delimitadores_maromo.dir
+C:/maratona/exe04_delimitadores_maromo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/maratona/exe04_delimitadores_maromo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

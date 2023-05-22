@@ -1,0 +1,3 @@
+C:/maratona/exe06_frase_completa/cmake-build-debug/CMakeFiles/exe06_frase_completa.dir
+C:/maratona/exe06_frase_completa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/maratona/exe06_frase_completa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

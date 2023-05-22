@@ -1,0 +1,3 @@
+C:/maratona/exe02_sequencia_numerica/cmake-build-debug/CMakeFiles/exe02_sequencia_numerica.dir
+C:/maratona/exe02_sequencia_numerica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/maratona/exe02_sequencia_numerica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
